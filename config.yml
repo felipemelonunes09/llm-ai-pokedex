@@ -1,2 +1,6 @@
 version: 1
 base-model: 'gpt-4o-mini'
+pokemon-datasource: 
+  url: https://pokeapi.co/api/v2/
+
+  
